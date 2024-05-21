@@ -1,0 +1,265 @@
+body {
+  margin: 0px;
+}
+
+.hero {
+  
+  height: 815px;
+  background-image: url(images/hero.jpg);
+  background-size: cover;
+  background-position: center top;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.logo {
+display: flex;
+  width: 50px;
+  height: 50px;
+  background-color: black;
+ 
+}
+
+.navbar {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  
+}
+
+.menu {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  align-items: center;
+ 
+}
+
+.links {
+  display: flex;
+  list-style-type: none;
+}
+
+.links li {
+  margin: 10px;
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
+}
+
+.textibild {
+top: 50%;
+left: 50%;
+text-align: center;
+
+align-items: center;
+display: flex;
+flex-direction: column;
+position: absolute;
+transform: translate(-50%, -50%)
+
+}
+h1 {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+  text-align: center;
+  
+}
+h2 {
+color: white;
+text-align: center;
+}
+.cta {
+  padding: 20px;
+  border-radius: 15%;
+  background-color: aqua
+}
+.box2 {
+  background-color: aqua;
+  height: auto;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 50px;
+  
+}
+.kille{
+  width: 800px;
+  height: auto;
+  display: flex;
+}
+.storlåda {
+  background-color: blueviolet;
+  width: 500px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+ 
+}
+.litenlåda1 {
+  background-color: white;
+  width: 400px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+.litenlåda2 {
+  background-color: grey;
+  width: 230px;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+
+  }
+  .cta2 {
+  padding: 5px;
+  border-radius: 15%;
+  background-color: aqua;
+
+  }
+
+  .cta3 {
+  padding: 5px;
+  border-radius: 15%;
+  background-color: aqua;
+  
+
+ }
+ .box3 {
+    background-color: red;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;    
+    padding-top: 100px;
+    
+    
+    
+  }
+  
+  .ruta1 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    text-align: center;
+    
+    
+    
+    
+    
+  }
+
+  .ruta2 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-right: 20px ;
+    text-align: center;
+    
+    
+    
+  }
+  
+ 
+  .ruta3 {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    text-align: center;
+    
+    
+  }
+
+  
+   
+  .box4 {
+    background-color: grey;
+    height: 500px;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;   
+    padding-top: 100px;
+    
+    
+  }
+  .litenlåda3 {
+  background-color: blue;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  padding: 20px;
+
+  }
+
+
+  .cta {
+    padding: 20px;
+    border-radius: 15%;
+    background-color: aqua
+    
+    
+    
+    
+
+  }
+
+  .box5 {
+    background-color: blueviolet;
+    height: 380px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  
+    
+  }
+
+  .footer {
+    width: 400px;
+    height: auto;
+  }
+
+  .litenlåda4 {
+
+    background-color: black;
+    height: 200px;
+    width: 700px;
+    display: flex;
+    justify-content: flex-start;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+  }
+
+  .litenlåda5 {
+
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+
+  }
+  .links {
+    display: flex;
+    list-style-type: none;
+    
+
+  }
+ 
+
+  }
